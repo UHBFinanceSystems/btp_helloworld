@@ -2,7 +2,7 @@
         xmlns="sap.m"
         xmlns:mvc="sap.ui.core.mvc" 
         displayBlock="true">
-        <Page id="page" title="{i18n>title}">
+        <Page id="page" title="Hello World">
               <IllustratedMessage id="ilm1" enableVerticalResponsiveness="true" illustrationType="sapIllus-SuccessBalloon">
             <additionalContent>
               <Button id="but1" 
